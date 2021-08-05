@@ -1,0 +1,15 @@
+.logo img{
+    width:198pxpx;
+    height: 59px;;
+}
+.right-nav a.sign-in{
+    background: green;
+    border-radius: 50%;
+    padding-bottom: 3px;
+}
+.btn{
+    border-radius: 20px;
+}
+.row{
+    padding-top:50px;
+}
